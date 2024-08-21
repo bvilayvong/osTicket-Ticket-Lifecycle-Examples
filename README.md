@@ -42,7 +42,8 @@ sign in to your help desk. Go to URL: http://localhost/osTicket/scp/login.php
 <img src="https://iili.io/dVhEwXI.png" alt="screenshot-1">
 <br> 
 <br>
-To create a ticket as a user (customer) Go to URL: http://localhost/osTicket/ 
+To create a ticket as a user (customer) Go to URL: http://localhost/osTicket/  <br>
+Click open a new ticket. 
 <br>
 <br>
 <img src="https://iili.io/dVhE0qF.png" alt="screenshot-2">
