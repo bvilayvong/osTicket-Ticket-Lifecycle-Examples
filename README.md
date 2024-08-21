@@ -38,38 +38,84 @@ End Users osTicket URL: http://localhost/osTicket/
 
 sign in to your help desk. Go to URL: http://localhost/osTicket/scp/login.php  
 <br>
-<img src="">
+<br>
+<img src="https://iili.io/dVhEwXI.png">
 <br> 
+<br>
 To create a ticket as a user (customer) Go to URL: http://localhost/osTicket/ 
 <br>
-<img src="">
+<br>
+<img src="https://iili.io/dVhE0qF.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEcs1.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEaWP.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEMdJ.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEWeR.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEXbp.png">
+<br>
+<br>
+<img src="https://iili.io/dVhENst.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEeqX.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEk1n.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEvgs.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEge4.png">
+<br>
+<br>
+<img src="https://iili.io/dVhE6I2.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEPXS.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEiL7.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEQ1e.png">
+<br>
+<br>
+<img src="https://iili.io/dVhEmkx.png">
+<br>
+<br>
+<img src="https://iili.io/dVhGHhB.png">
+<br>
+<br>
 
 
-Notes:
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
-End Users osTicket URL: http://localhost/osTicket/ 
-
-
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-
-
+https://iili.io/dVhEwXI.png-
+https://iili.io/dVhE0qF.png-
+https://iili.io/dVhEcs1.png-
+https://iili.io/dVhEaWP.png-
+https://iili.io/dVhEMdJ.png-
+https://iili.io/dVhEWeR.png-
+https://iili.io/dVhEXbp.png-
+https://iili.io/dVhENst.png-
+https://iili.io/dVhEeqX.png-
+https://iili.io/dVhEk1n.png-
+https://iili.io/dVhEvgs.png-
+https://iili.io/dVhEge4.png-
+https://iili.io/dVhE6I2.png-
+https://iili.io/dVhEPXS.png-
+https://iili.io/dVhEiL7.png-
+https://iili.io/dVhEQ1e.png
+https://iili.io/dVhEmkx.png
+https://iili.io/dVhGHhB.png
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
