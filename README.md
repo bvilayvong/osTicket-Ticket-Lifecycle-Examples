@@ -31,9 +31,43 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-sign in 
-To create a ticket as a user (customer) Go to URL: http://localhost/osTicket/ 
 
+Notes:
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+End Users osTicket URL: http://localhost/osTicket/ 
+
+sign in to your help desk. Go to URL: http://localhost/osTicket/scp/login.php  
+<br>
+<img src="">
+<br> 
+To create a ticket as a user (customer) Go to URL: http://localhost/osTicket/ 
+<br>
+<img src="">
+
+
+Notes:
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+End Users osTicket URL: http://localhost/osTicket/ 
+
+
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
 
 
 
