@@ -72,11 +72,19 @@ Click Create Ticket. <br>
 <img src="https://iili.io/dVhEaWP.png" alt="screenshot-4">
 <br>
 <br>
+<p>You will get an check mark icon on screen that your support ticket request was created.</p> 
+<br>
 <img src="https://iili.io/dVhEMdJ.png" alt="screenshot-5">
+<br>
+Some more form examples of a end user creating a ticket.
 <br>
 <br>
 <img src="https://iili.io/dVhEWeR.png" alt="screenshot-6">
 <br>
+<br>
+<p>Once form have been filled by the end user.
+A check mark icon will appear with context that the ticket request was created and
+received by the support team.</p> 
 <br>
 <img src="https://iili.io/dVhEXbp.png" alt="screenshot-7">
 <br>
