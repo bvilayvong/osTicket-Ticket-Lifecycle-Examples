@@ -140,6 +140,6 @@ The Closed by section will appear by which agent name who resolved and closed th
 <img src="https://iili.io/dVhGHhB.png" alt="screenshot-18">
 <br>
 <br>
-
+<p>This concludes the osTicket Lifecycle. Congratulations!</p>
 
 
