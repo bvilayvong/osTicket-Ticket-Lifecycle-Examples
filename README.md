@@ -39,61 +39,79 @@ End Users osTicket URL: http://localhost/osTicket/
 sign in to your help desk. Go to URL: http://localhost/osTicket/scp/login.php  
 <br>
 <br>
-<img src="https://iili.io/dVhEwXI.png">
+<img src="https://iili.io/dVhEwXI.png" alt="screenshot-1">
 <br> 
 <br>
 To create a ticket as a user (customer) Go to URL: http://localhost/osTicket/ 
 <br>
 <br>
-<img src="https://iili.io/dVhE0qF.png">
+<img src="https://iili.io/dVhE0qF.png" alt="screenshot-2">
 <br>
 <br>
-<img src="https://iili.io/dVhEcs1.png">
+<p>Fill in the form to open a new ticket.<br>
+Your contact information:<br>
+Email Address<br>
+Full name<br>
+Phone number and/or Ext:<br>
+</p>
+<br>
+<p>
+In Help topic: <br>
+Select from a dropdown list of Help topics. <br>
+In Issue Summary: <br>
+type a summary that describes your issue summary. <br>
+In description box: <br>
+Type a description of your issue summary. <br>
+Click Create Ticket. <br>
+</p>
+
+
+<img src="https://iili.io/dVhEcs1.png" alt="screenshot-3">
 <br>
 <br>
-<img src="https://iili.io/dVhEaWP.png">
+<img src="https://iili.io/dVhEaWP.png" alt="screenshot-4">
 <br>
 <br>
-<img src="https://iili.io/dVhEMdJ.png">
+<img src="https://iili.io/dVhEMdJ.png" alt="screenshot-5">
 <br>
 <br>
-<img src="https://iili.io/dVhEWeR.png">
+<img src="https://iili.io/dVhEWeR.png" alt="screenshot-6">
 <br>
 <br>
-<img src="https://iili.io/dVhEXbp.png">
+<img src="https://iili.io/dVhEXbp.png" alt="screenshot-7">
 <br>
 <br>
-<img src="https://iili.io/dVhENst.png">
+<img src="https://iili.io/dVhENst.png" alt="screenshot-8">
 <br>
 <br>
-<img src="https://iili.io/dVhEeqX.png">
+<img src="https://iili.io/dVhEeqX.png" alt="screenshot-9">
 <br>
 <br>
-<img src="https://iili.io/dVhEk1n.png">
+<img src="https://iili.io/dVhEk1n.png" alt="screenshot-10">
 <br>
 <br>
-<img src="https://iili.io/dVhEvgs.png">
+<img src="https://iili.io/dVhEvgs.png" alt="screenshot-11">
 <br>
 <br>
-<img src="https://iili.io/dVhEge4.png">
+<img src="https://iili.io/dVhEge4.png" alt="screenshot-12">
 <br>
 <br>
-<img src="https://iili.io/dVhE6I2.png">
+<img src="https://iili.io/dVhE6I2.png" alt="screenshot-13">
 <br>
 <br>
-<img src="https://iili.io/dVhEPXS.png">
+<img src="https://iili.io/dVhEPXS.png" alt="screenshot-14">
 <br>
 <br>
-<img src="https://iili.io/dVhEiL7.png">
+<img src="https://iili.io/dVhEiL7.png" alt="screenshot-15">
 <br>
 <br>
-<img src="https://iili.io/dVhEQ1e.png">
+<img src="https://iili.io/dVhEQ1e.png" alt="screenshot-16">
 <br>
 <br>
-<img src="https://iili.io/dVhEmkx.png">
+<img src="https://iili.io/dVhEmkx.png" alt="screenshot-17">
 <br>
 <br>
-<img src="https://iili.io/dVhGHhB.png">
+<img src="https://iili.io/dVhGHhB.png" alt="screenshot-18">
 <br>
 <br>
 
