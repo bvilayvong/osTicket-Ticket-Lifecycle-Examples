@@ -112,7 +112,7 @@ A check mark icon will indicate that it has successfully updated this agent. </p
 <br>
 <img src="https://iili.io/dVhE6I2.png" alt="screenshot-13">
 <br>
-<p>When opening a ticket, you can set and check the apropriate Priority level, Department, Assigned to, and adjust the correct SLA Plan.<br>
+<p>When opening a ticket, you can set and check the appropriate Priority level, Department, Assigned to, and adjust the correct SLA Plan.<br>
 If there are any changes to the ticket, you will be able to see and read the ticket thread. </p>
 <br>
 <img src="https://iili.io/dVhEPXS.png" alt="screenshot-14">
@@ -126,54 +126,19 @@ You will receive a check mark icon indicating the ticket assigned to the agent w
 <br>
 <img src="https://iili.io/dVhEQ1e.png" alt="screenshot-16">
 <br>
+<p>When working with a ticket, checking the appropriate SLA Plan, SEV-A, SEV-B, SEV-C whether it corresponds to its severity level.<br>
+If a updated change to SLA Plan is needed.<br>
+There will be a check mark icon indicating the SLA Plan updated successfully. 
+</p>
 <br>
 <img src="https://iili.io/dVhEmkx.png" alt="screenshot-17">
 <br>
+<p>Once tickets have been resolved. It will appear in the Closed section. <br>
+The Closed by section will appear by which agent name who resolved and closed the ticket. </p>
 <br>
 <img src="https://iili.io/dVhGHhB.png" alt="screenshot-18">
 <br>
 <br>
 
 
-https://iili.io/dVhEwXI.png-
-https://iili.io/dVhE0qF.png-
-https://iili.io/dVhEcs1.png-
-https://iili.io/dVhEaWP.png-
-https://iili.io/dVhEMdJ.png-
-https://iili.io/dVhEWeR.png-
-https://iili.io/dVhEXbp.png-
-https://iili.io/dVhENst.png-
-https://iili.io/dVhEeqX.png-
-https://iili.io/dVhEk1n.png-
-https://iili.io/dVhEvgs.png-
-https://iili.io/dVhEge4.png-
-https://iili.io/dVhE6I2.png-
-https://iili.io/dVhEPXS.png-
-https://iili.io/dVhEiL7.png-
-https://iili.io/dVhEQ1e.png
-https://iili.io/dVhEmkx.png
-https://iili.io/dVhGHhB.png
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
