@@ -61,7 +61,7 @@ In Help topic: <br>
 Select from a dropdown list of Help topics. <br>
 In Issue Summary: <br>
 type a summary that describes your issue summary. <br>
-In description box: <br>
+In the description box: <br>
 Type a description of your issue summary. <br>
 Click Create Ticket. <br>
 </p>
@@ -73,18 +73,18 @@ Click Create Ticket. <br>
 <img src="https://iili.io/dVhEaWP.png" alt="screenshot-4">
 <br>
 <br>
-<p>You will get an check mark icon on screen that your support ticket request was created.</p> 
+<p>You will get a checkmark icon on the screen that your support ticket request was created.</p> 
 <br>
 <img src="https://iili.io/dVhEMdJ.png" alt="screenshot-5">
 <br>
-Some more form examples of a end user creating a ticket.
+Here are some more form examples of an end user creating a ticket.
 <br>
 <br>
 <img src="https://iili.io/dVhEWeR.png" alt="screenshot-6">
 <br>
 <br>
 <p>Once form have been filled by the end user.
-A check mark icon will appear with context that the ticket request was created and
+A check mark icon will appear with the context that the ticket request was created and
 received by the support team.</p> 
 <br>
 <img src="https://iili.io/dVhEXbp.png" alt="screenshot-7">
@@ -93,18 +93,18 @@ received by the support team.</p>
 <img src="https://iili.io/dVhENst.png" alt="screenshot-8">
 <br>
 <p>In the Agent Panel, you will see the ticket requests and be able to open them.
-You will have access to the Ticket #, Last Updated, Subject, From, Priority and assigned To sections.</p>
+You will have access to the Ticket #, Last Updated, Subject, From, Priority, and assigned To sections.</p>
 <br>
 <img src="https://iili.io/dVhEeqX.png" alt="screenshot-9">
 <br>
-<p>In the Admin Panel, you can setup and configure the access, permissions and teams of each agent. Such as what primary department and what level of allowed access. </p>
+<p>In the Admin Panel, you can setup and configure the access, permissions, and teams of each agent. Such as what primary department and what level of allowed access. </p>
 <br>
 <img src="https://iili.io/dVhEk1n.png" alt="screenshot-10">
 <br>
 <br>
 <img src="https://iili.io/dVhEvgs.png" alt="screenshot-11">
 <br>
-<p>Once Access, Permissions and Teams have been configured.<br>
+<p>Once Access, Permissions, and Teams have been configured.<br>
 Click Save Changes. <br>
 A check mark icon will indicate that it has successfully updated this agent. </p>
 <br>
@@ -121,15 +121,15 @@ If there are any changes to the ticket, you will be able to see and read the tic
 <br>
 <img src="https://iili.io/dVhEiL7.png" alt="screenshot-15">
 <br>
-<p>In the assigned To, you can assign the ticket to an agent and write a optional description reason for the assignment. <br>
+<p>In the assigned To, you can assign the ticket to an agent and write an optional description reason for the assignment. <br>
 Click Assign. <br>
-You will receive a check mark icon indicating the ticket assigned to the agent was successful. </p>
+You will receive a checkmark icon indicating the ticket assigned to the agent was successful. </p>
 <br>
 <img src="https://iili.io/dVhEQ1e.png" alt="screenshot-16">
 <br>
-<p>When working with a ticket, checking the appropriate SLA Plan, SEV-A, SEV-B, SEV-C whether it corresponds to its severity level.<br>
-If a updated change to SLA Plan is needed.<br>
-There will be a check mark icon indicating the SLA Plan updated successfully. 
+<p>When working with a ticket, check the appropriate SLA Plan, SEV-A, SEV-B, SEV-C whether it corresponds to its severity level.<br>
+If an updated change to SLA Plan is needed.<br>
+There will be a checkmark icon indicating the SLA Plan has been updated successfully. 
 </p>
 <br>
 <img src="https://iili.io/dVhEmkx.png" alt="screenshot-17">
